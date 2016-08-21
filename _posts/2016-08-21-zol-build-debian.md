@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jekyll Clean Theme"
+title: "Build ZoL on Debian"
 date: 2014-08-22 16:25:06 -0700
 comments: false
 ---
